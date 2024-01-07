@@ -1,0 +1,28 @@
+.container{
+    height: 300px;
+    width: 400px;
+    background-color: white;
+    margin-top: 250px;
+    margin-left: 550px;
+    padding-top: 20px;
+    padding-left: 50px;  
+ }
+ body{
+    background-color: skyblue;
+ }
+ h2{
+     color: rgb(102, 172, 200);
+     font-weight: bolder;
+ }
+ input{
+     padding: 5px;
+     margin: 5px;
+     width: 250px;
+ }
+ .btn{
+     text-align: center;
+     background-color: rgb(102, 202, 241);
+     border: rgb(102, 202, 241);
+     color: white;
+     width: 265px;
+ }
